@@ -1,7 +1,6 @@
 extrn  GetStdHandle: proc, 
        WriteConsoleA: proc, 
-	   ReadConsoleA: proc,
-	   ReadConsoleA: proc,
+       ReadConsoleA: proc,
        ExitProcess: proc,
 	   lstrlenA: proc
 	  	   
